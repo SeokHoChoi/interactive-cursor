@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# 빌드된 결과물
+dist/
+
+# 배포용 파일
+*.tgz
+
+# 로그 파일
+*.log
+
+# 환경 변수 설정 파일 (예: .env)
+.env
+
+# TypeScript 컴파일된 JavaScript 파일
+*.js
+*.d.ts
+*.map
+
+# OS별 임시 파일
+.DS_Store
+Thumbs.db
+
+# VS Code 관련 파일
+.vscode/
+
+# 기타 임시 파일들
+*.swp
+*.bak
